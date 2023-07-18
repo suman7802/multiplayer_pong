@@ -1,0 +1,17 @@
+{
+  "name": "9.1-single-player-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "mansu7802@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.1"
+  }
+}
