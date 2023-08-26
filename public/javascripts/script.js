@@ -1,4 +1,4 @@
-const socket = io("http://localhost:3000");
+const socket = io("https://multiplayer-pong-17ze.onrender.com");
 let isReferee = false;
 let paddleIndex = 0;
 
